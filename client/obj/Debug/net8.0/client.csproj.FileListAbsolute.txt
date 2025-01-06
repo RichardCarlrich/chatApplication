@@ -1,0 +1,15 @@
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\bin\Debug\net8.0\client.exe
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\bin\Debug\net8.0\client.deps.json
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\bin\Debug\net8.0\client.runtimeconfig.json
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\bin\Debug\net8.0\client.dll
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\bin\Debug\net8.0\client.pdb
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.AssemblyInfoInputs.cache
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.AssemblyInfo.cs
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.csproj.CoreCompileInputs.cache
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.sourcelink.json
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.dll
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\refint\client.dll
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.pdb
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\client.genruntimeconfig.cache
+D:\work\2025.01.06 - 2025.01.11\chatApplication\client\obj\Debug\net8.0\ref\client.dll
